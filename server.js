@@ -19,7 +19,7 @@ app.use(bodyParser.json());
 const mockEvents = {
     events: [
         { title: 'an event', id: 1, description: 'something really cool', location:'The Beach',like:4 },
-        { title: 'another event', id: 2, description: 'something even cooler', location:'Disney world',like:7 }
+        { title: 'another event', id: 2, description: 'something even cooler', location:'Disney World',like:10 }
     ]
 };
 
